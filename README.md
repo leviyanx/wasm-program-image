@@ -2,6 +2,8 @@
 
 ## Usage
 
+Crun can run all images except those made from `for-runc`.
+
 ### hello
 
 ```bash
